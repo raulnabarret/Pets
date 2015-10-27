@@ -1,0 +1,23 @@
+commit 3bb334228365a4f251ca42ebaa6fe05828167a3e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Oct 23 20:16:02 2015 -0500
+
+    Utilizamos reset.css para eliminar los estilos por defectos de los navegadores
+
+commit fb34f586911179e446b1f24748d849ee6a6e779d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Oct 23 20:14:52 2015 -0500
+
+    Se agregaron el background y el logo
+
+commit 0d155a91135ebeaa811fe1c488f04b7ef6552afa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Oct 23 20:14:01 2015 -0500
+
+    Se agregaron los primeros estilos al sitio
+
+commit 322a9f69f01f260c2246065b75ff2534e5c4bea4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Oct 23 20:13:31 2015 -0500
+
+    Se creo la estructura del sitio con index.html
