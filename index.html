@@ -8,20 +8,36 @@
 </head>
 <body>
 	<header>
-		<img src="./assets/logo.svg">
-		<nav>
-			<ul>
-				<li>Gatos</li>
-				<li>Perros</li>
-				<li>Acerca</li>
-			</ul>
-		</nav>
-	</header>
-	<section class="home">
-		<h1>Aprende sobre las mascotas más populares de Internet</h1>
+		<div class="container">
+			<nav class="row between">
+				<div class="col-4">
+					<img src="./assets/logo.svg">
+				</div>
 
-		<a href="gatos.html" class="boton">Gatos</a>
-		<a href="perros.html" class="boton">Perros</a>
+				<div class="col-3">
+					<ul class="row">
+						<li class="col">Gatos</li>
+						<li class="col">Perros</li>
+						<li class="col">Acerca</li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</header>
+
+	<section class="home">
+
+		<div class="container">
+			<div class="row center">
+				<h1 class="col-10">Aprende sobre las mascotas más populares de Internet</h1>
+				<div class="col-3 boton">
+					<a href="gatos.html" class="boton_a">Gatos</a>
+				</div>
+				<div class="col-3 boton">
+					<a href="perros.html" class="boton_a">Perros</a>
+				</div>
+			</div>
+		</div>
 	</section>
 	<footer>
 		2015 - <a href="twitter.com/raulnabarret">Raúl Nabarret</a>
