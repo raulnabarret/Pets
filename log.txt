@@ -1,3 +1,57 @@
+commit 11f5944b7ab29e8f87236902204af7f9d4d88989
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 27 21:48:18 2015 -0600
+
+    Imagenes para la galería de gatos.html
+
+commit 2e953cd523ce0ea2854bb458899409ec82085705
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 27 21:47:54 2015 -0600
+
+    Agregamos clases y estilos para el archivo gatos.html
+
+commit 5f8425b432e229a5346fab5c0b31ed2a50943e6d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 27 21:46:53 2015 -0600
+
+    Cambios mínimos para acomodar detalles del section y de los botones en el section
+
+commit 134eb619cd7035673ed29ba0074701cf9bccb7b4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 27 21:43:43 2015 -0600
+
+    Se creo el archivo perros.html q se accede desde el boton en<html> index.html
+
+commit b9ef593a0628e12c91e77b0e9ac0a2abe8d1f352
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Oct 26 22:21:07 2015 -0600
+
+    Alineamos los elementos dentro del DOM
+
+commit 6db239968e323b6afa2af709f3cb1f05a00844b8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Oct 26 22:20:25 2015 -0600
+
+    Reticula para alinear elementos en el DOM
+
+commit 9398f31085cd7c07b1bd7a892c1debe5687bcb96
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Oct 26 21:22:52 2015 -0600
+
+    Se eliminaron archivos css
+
+commit 27d3a4e44b0bc95c24bbf80b0e7af16dea9aa7ee
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Oct 26 21:22:22 2015 -0600
+
+    Log de commits
+
+commit ddf7adbaba3ad1140a241274d33481d6fcae3730
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Oct 26 21:22:02 2015 -0600
+
+    Creamos carpeta exclusiva de CSS e importamos reset.css directamente en estilos.css
+
 commit 3bb334228365a4f251ca42ebaa6fe05828167a3e
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Fri Oct 23 20:16:02 2015 -0500
