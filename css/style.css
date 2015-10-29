@@ -3,6 +3,7 @@
 
 a {
 	text-decoration: none;
+
 }
 
 .boton {
@@ -28,6 +29,7 @@ a {
 	text-transform: uppercase;
 }
 
+
 .home {
 	background: #FFFFFF url("../assets/bg.jpg") no-repeat center center fixed; 
 	background-size: cover;
@@ -50,10 +52,23 @@ footer {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 60px;
 	font-weight: 700;
 	text-transform: uppercase;
 
+}
+
+h2 {
+	font-size: 48px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-size: 10px;
+	font-weight: 700;
+	line-height: 12px;
+	text-transform: uppercase;
 }
 
 header {
@@ -76,9 +91,17 @@ html, body {
 }
 
 img {
-
 	float: left;
 	width: 100%;
+}
+
+.info {
+	background-color: #eaeff5;
+	color: #888d9b;
+	font-size: 10px;
+	margin-bottom: 5px;
+	padding: 20px;
+	text-transform: uppercase;
 }
 
 .layout_a {
@@ -93,6 +116,33 @@ nav ul li {
 	display: inline-block;	
 	font-weight: 400;
 }
+
+p {
+	color: #636363;
+	text-transform: capitalize;
+}
+
+p, .subtitulo{
+	text-align: center;
+}
+
+.subtitulo {
+	margin: 10% 0 1% 0;
+}
+
+.sub_subtitulo {
+	text-align: center;
+}
+
+ul li {
+	color: gray;
+}
+
+ul li a {
+	color: gray;
+	margin: 0 20%;
+}
+
 
 
 
