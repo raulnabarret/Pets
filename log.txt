@@ -1,3 +1,21 @@
+commit 7fc25b077a6d527c5aedbe675afdfd3233a9c3bd
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 28 23:11:44 2015 -0600
+
+    Se creo una animación para los botones de index.html
+
+commit 722393ef0d459170ec40ca615b98ada7df9d18fc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 28 22:58:22 2015 -0600
+
+    Se hicieron cambios a los estilos y a la estructura de gatos.html
+
+commit a30b4a3b53b9abf01eb01c9e166c5279117e921a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 27 21:49:00 2015 -0600
+
+    Log 27/octubre/2015
+
 commit 11f5944b7ab29e8f87236902204af7f9d4d88989
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Tue Oct 27 21:48:18 2015 -0600
