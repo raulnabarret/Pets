@@ -1,3 +1,27 @@
+commit 64c54ff584a1acfb68dd017e5a87c8d0daea58c6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Oct 30 21:59:49 2015 -0600
+
+    Se eliminaron los enlaces de las imagenes de la galería
+
+commit 81b6aed1d73ae7c83c6c897d872c3caa49cc250f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Oct 30 21:59:05 2015 -0600
+
+    Se creó la estructura html de perros.html
+
+commit 63bbaf7191a9af3d2828dbd5ad6bf6310234d124
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Oct 29 13:33:35 2015 -0600
+
+    Log 29 de octubre de 2015
+
+commit 2ad2ecc1a985c03cec28da8621c8417fce006706
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Oct 29 13:33:08 2015 -0600
+
+    Se instaló SASS en el proyecto y de manera global
+
 commit 7fc25b077a6d527c5aedbe675afdfd3233a9c3bd
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Wed Oct 28 23:11:44 2015 -0600
